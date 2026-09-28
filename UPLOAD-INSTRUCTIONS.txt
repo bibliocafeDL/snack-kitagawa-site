@@ -1,0 +1,16 @@
+スナック北川 GitHub Pages 用ファイル
+
+アップロードするもの:
+- index.html
+- style.css
+- images フォルダの中身すべて
+
+GitHubでの操作:
+1. リポジトリ snack-kitagawa-site を開く
+2. 既存の index.html は、このファイルの内容で置き換える
+3. Add file → Upload files で style.css と images フォルダ内の画像を追加
+4. Commit changes
+5. Settings → Pages → Branch: main / (root) → Save
+
+※ Googleマップは実際の共有リンクに設定済みです。
+※ ママ写真は手が目立たないよう、上半身中心にトリミングした画像を使っています。
